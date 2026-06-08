@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .loginPage {
+    background: url('../public/images/employeems.jpg');
+    background: linear-gradient(rgba(11,11,11,0.5), rgba(10,10,10,0.5) url('../public/images/employeems.jpg'));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: 150% 180%;
+    padding: 0;
+    margin: 0;
+  }
+  .loginForm{
+    background-color: rgba(14, 75, 179, 0.6);
+    color:white;
+  }
+  ul li:hover{
+    background:darkgray ;
+  
+  }
+
+  .employee_image{
+    width: 50px;
+    height: 70px;
+    
+  }
+  

@@ -1,0 +1,72 @@
+*{
+  margin:0;
+  padding: 0;
+  text-decoration: none;
+}
+.ntainer{
+  display: flex;
+  width: 100%;
+  padding:0px
+}
+
+
+main{
+  width: 100%;
+  
+}
+.sidebar{
+  background: #000;
+  color: #fff;
+  height: 147vh;
+  
+  width: 300px;
+  transition:all 0.5s;
+}
+.top_section{
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+}
+.logo{
+  font-size: 20px;
+}
+.bars{
+  display: flex;
+  font-size: 25px;
+  margin-left: 50px;
+
+
+}
+.link{
+  display: flex;
+  color: #fff;
+  padding: 10px 15px;
+  gap: 5px;
+ transition: all 0.5s;
+text-decoration: none;
+
+}
+.link:hover{
+  background: lightskyblue;
+  color:#000;
+  transition: all 0.5s;
+}
+.active{
+  background:lightskyblue ;
+  color:#000;
+
+}
+.icon, .link_tex{
+ font-size: 20px;
+}
+/*to loginn page*/
+
+.do{
+  color:green;
+}
+.doo{
+  color:red;
+}
+.dooo{
+  color:blue;
+}
