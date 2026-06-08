@@ -1,0 +1,70 @@
+MY finnal project HRMS , Finance management system and task management system in one sample 
+--------------------------------------------------------
+1. you must install nodejs if you have well if you don't  use this link and install nodejs
+  https://nodejs.org/en/download/
+ then install it
+------------------------------------------------F
+                    Font End Framework
+
+2.  first create empty folder
+open folder in the vs code or in other IDE 
+then  cd folder name 
+ install react vite using below link 
+https://vitejs.dev/guide/         or 
+ using this cmd
+ then 
+  npm create vite
+   give project name // exmaple my project name is employeems
+    give package name // it may be the same to the project name 
+   select framework choose REACT
+   select variant choose javascript
+------------------------------------------------
+3 cd project name 
+           npm install                   //it install all dependency to the react
+          npm run dev                   // our react app is run copy the link and pest in browser
+         npm  install axios bootstrap react-router-dom bootstrap-icons       
+         use the below link and install for react multi-language support, pdf create , fontawsome icon  and tailwindcss framework for project copy the link and pest search icon
+          A) https://react.i18next.com/
+          B) https://www.npmjs.com/package/react-pdf                     // npm i react-pdf 
+          C) https://docs.fontawesome.com/v5/web/use-with/react
+          D) https://medium.com/@shivaydv/a-step-by-step-guide-to-installing-tailwind-css-with-react-b06d71a50354
+
+        All about font end of project framework 
+-------------------------------------------------
+
+              Back end  framework
+--------------------------------------------------
+1. open in vs code new terminal  and create folder server 
+         then 
+              cd server 
+             npm init -y
+            npm install  express mysql cors cookie-parser bcrypt jsonwebtoken multer path
+            npm install nodemon
+ 
+    All about back end 
+
+
+
+create data base employeems and import from downloaded file our sql code 
+  
+ finally 
+to login after run use the
+
+Email:- Admin@gmail.com 
+password:-Oro@6261 
+
+use this and login admin page by officer login create other user like hr manager,  finance manager , task manager and employee accounts
+
+note employee option is for employee page officer login is for roller man
+
+
+           
+           
+          
+           
+          
+
+
+
+
+ 
